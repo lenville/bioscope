@@ -6,4 +6,7 @@ We want to record the old data like making a film and replay it like how the **b
 
 We will develop a data record and playback machine based on Golang.
 
-Yep, we means [AlphaLi](https://github.com/alphali) and I.
+Yep, that "we" means [AlphaLi](https://github.com/alphali) and I.
+
+2015/1/10
+ * [Wiki](https://github.com/lenville/bioscope/wiki) online
