@@ -8,5 +8,6 @@ We will develop a data record and playback machine based on Golang.
 
 Yep, that "we" means [AlphaLi](https://github.com/alphali) and I.
 
-2015/1/10
- * [Wiki](https://github.com/lenville/bioscope/wiki) online
+
+ * 2015/1/10 - [Wiki](https://github.com/lenville/bioscope/wiki) online
+ * 2015/1/23 - [Wiki-语言学习](https://github.com/lenville/bioscope/wiki/语言学习) online
