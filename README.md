@@ -15,4 +15,5 @@ Yep, that "we" means [AlphaLi](https://github.com/alphali) and I.
  * 2015/1/24 - [Wiki-包学习](https://github.com/lenville/bioscope/wiki/包学习) online
  * 2015/1/24 - Add some [snippets](https://github.com/lenville/bioscope/tree/master/snippets) when learning Golang
  * 2015/1/24 - Add model [qt.go](https://github.com/lenville/bioscope/blob/master/qt.go) which is used to fetching [qt data](http://qt.gtimg.cn/q=usGOOG)
+ * 2015/2/1 - [Wiki-理解 Interface 接口](https://github.com/lenville/bioscope/wiki/理解-Interface-接口) online
 
