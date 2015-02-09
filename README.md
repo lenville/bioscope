@@ -17,3 +17,6 @@ We will develop a data record and playback machine based on Golang.
  * 2015/2/3 - [Wiki-并发](https://github.com/lenville/bioscope/wiki/%E5%B9%B6%E5%8F%91) [Wiki-通讯](https://github.com/lenville/bioscope/wiki/%E9%80%9A%E8%AE%AF) online
  * 2015/2/5 - [Wiki-数据库](https://github.com/lenville/bioscope/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93) online
  * 2015/2/9 - [pkg qt](https://github.com/lenville/bioscope/tree/master/qt)
+
+
+[![Join the chat at https://gitter.im/lenville/bioscope](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/lenville/bioscope?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
